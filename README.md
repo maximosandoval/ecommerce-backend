@@ -28,12 +28,12 @@ Upon successful install of the packages - utilize Mysql Workbench and create a d
 
 Create a database
 
-npm run seed
+    npm run seed
 
 Seed the database
 
-npm run seed
-npm run start
+    npm run seed
+    npm run start
 
 Do not forget to download and install [Postman](https://www.postman.com/downloads/).
 
