@@ -28,12 +28,12 @@ Upon successful install of the packages - utilize Mysql Workbench and create a d
 
 Create a database
 
-    npm run seed
+npm run seed
 
 Seed the database
 
-    npm run seed
-    npm run start
+npm run seed
+npm run start
 
 Do not forget to download and install [Postman](https://www.postman.com/downloads/).
 
@@ -48,5 +48,9 @@ Do not forget to download and install [Postman](https://www.postman.com/download
 
 ## Screenshot
 
-![Screenshot 1](https://media.publit.io/file/DU/screenshot-1.png)
-![Screenshot 2](https://media.publit.io/file/DU/screenshot-2.png)
+![Screenshot 1](https://media.publit.io/file/DU/screenshot-13-1.png)
+![Screenshot 2](https://media.publit.io/file/DU/screenshot-13-2.png)
+![Screenshot 3](https://media.publit.io/file/DU/screenshot-13-3.png)
+![Screenshot 4](https://media.publit.io/file/DU/screenshot-13-4.png)
+![Screenshot 5](https://media.publit.io/file/DU/screenshot-13-5.png)
+![Screenshot 6](https://media.publit.io/file/DU/screenshot-13-6.png)
