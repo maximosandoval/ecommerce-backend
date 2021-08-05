@@ -4,7 +4,7 @@ Build the back end for an e-commerce website utilizing SQL, Node.js, and other l
 
 - [Installation](https://github.com/maximosandoval/ecommerce-backend#install)
 - [Usage](https://github.com/maximosandoval/ecommerce-backend#usage)
-- [Video Walkthru](https://media.publit.io/file/DU/Module-13-walkthru.mp4)
+- [Video Walkthru](https://media.publit.io/file/DU/Module-13-walkthru-y.mp4)
 
 ## Usage
 
